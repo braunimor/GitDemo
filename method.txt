@@ -2,3 +2,5 @@
 
 2. library("factoextra") 
    library("FactoMineR")
+
+3. Have coffee.
