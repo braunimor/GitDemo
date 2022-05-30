@@ -1,0 +1,4 @@
+1. install: install.packages("factoextra")
+
+2. library("factoextra") 
+   library("FactoMineR")
